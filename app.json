@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Match & Merge Shopping App",
+    "slug": "match-merge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.jpg",
+    "scheme": "match-merge",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {},
+    "web": {
+      "favicon": "./assets/images/icon.jpg"
+    },
+    "splash": {
+      "backgroundColor": "#F7F3ED",
+      "resizeMode": "contain"
+    },
+    "plugins": []
+  }
+}
